@@ -1,1 +1,1 @@
-# odin-recipes
+My first project while following The Odin Project Curiculum. I was able to put to use the HTML fundamentals taught to me, as well as become a bit more familiar with using github. This was one of my first times using it, so I did not use commits.
